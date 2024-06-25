@@ -1,0 +1,129 @@
+body {
+	background-color: #f0dda6;
+}
+img {
+ border: 0px;
+}
+.t14_red {
+	font-family: "微軟正黑體";
+	font-size: 14px;
+	color: #8A89B6;
+
+}
+.t16_b {
+	font-family: "微軟正黑體";
+	font-size: 16px;
+	color: #45446C;
+	font-weight: normal;
+	line-height: 30px;
+}
+
+.t16_w {
+	font-family: "微軟正黑體";
+	font-size: 16px;
+	color: #ffffff;
+	font-weight: normal;
+	line-height: 16px;
+}
+.t16 {
+	font-family: "微軟正黑體";
+	font-size: 16px;
+	color: #8A89B6;
+	line-height: 24px;
+	font-weight: normal;
+	}
+.t16_red {
+	font-family: "微軟正黑體";
+	font-size: 16px;
+	color: #c40000;
+	font-weight: bold;
+}
+.t18_b {
+	font-family: "微軟正黑體";
+	font-size: 18px;
+	color: #D12B5F;;
+	font-weight: bold;
+	}
+.t18_b a:link{color:#D12B5F;text-decoration:none;} 
+.t18_b a:visited{color:#D12B5F;text-decoration:underline;}
+.t18_b a:hover{color:#D12B5F;text-decoration:underline;}
+.t18_b a:active{color:#D12B5F;
+}
+
+.t18_orange {
+	font-family: "微軟正黑體";
+	font-size: 18px;
+	color: #eb6100;
+	line-height: 24px;
+	font-weight: bold;
+	}
+.t18_orange a:link{color:#eb6100;text-decoration:none;} 
+.t18_orange a:visited{color:#eb6100;text-decoration:underline;}
+.t18_orange a:hover{color:#eb6100;text-decoration:underline;}
+.t18_orange a:active{color:#eb6100;
+}
+.t22_b {
+	font-family: "微軟正黑體";
+	font-size: 22px;
+	color: #5C71E7;
+	line-height: 40px;
+	font-weight: bold;
+	margin:30 auto;
+	list-style-type:none;
+	}
+.t22_b a:link{color:#D12B5F;text-decoration:none;} 
+.t22_b a:visited{color:#D12B5F;text-decoration:underline;}
+.t22_b a:hover{color:#D12B5F;text-decoration:underline;}
+.t22_b a:active{color:#D12B5F;
+}
+.t30 {
+	font-family: "微軟正黑體";
+	font-size: 30px;
+	color: #5600b9;
+	line-height: 60px;
+	font-weight: bold;
+	
+}
+.t30_b {
+	font-family: "微軟正黑體";
+	font-size: 30px;
+	color: #888;
+	line-height: 60px;
+	font-weight: bold;
+	
+}
+.t24_w {
+	font-family: "微軟正黑體";
+	font-size: 24px;
+	color: #fff;
+	line-height: 24px;
+	font-weight: bold;
+}.t60 {
+	font-family: "微軟正黑體";
+	font-size: 60px;
+	color: #D12B5F;
+	font-weight: bold;
+}
+
+.t20{
+	font-family: "微軟正黑體";
+	font-size: 16px;
+	color: #D12B5F;;
+	}
+
+.t26 {
+	font-family: "微軟正黑體";
+	font-size: 16px;
+	color: #D12B5F;;
+
+	}
+	
+figure {
+    display: block;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
